@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgomohC
-- 👀 I’m interested in javascript and mern stack
-- 🌱 I’m currently learning mongodb, node.js and express
-- 📫 How to reach me via email at chinaemerema@gmail.com
+- 👀 I’m interested in the MERN stack
+- 🌱 I’m currently learning redux/toolkit
+- 📫 I can be contacted via email at chinaemerema@gmail.com
 
 <!---
 AgomohC/AgomohC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
