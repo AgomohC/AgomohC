@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgomohC
 - 👀 I’m interested in the MERN stack
-- 🌱 I’m currently learning redux/toolkit
+- 🌱 I’m currently learning Typescript
 - 📫 I can be contacted via email at chinaemerema@gmail.com
 
 <!---
