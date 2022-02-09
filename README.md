@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in the MERN stack
+- 👀 I’m interested in the Javascript and its web applications
 
 - 🌱 I’m currently learning Typescript
 
-- 📫 I'm open to full stack roles, I can be contacted via email at chinaemerema@gmail.com
+- 📫 I'm open to front end, back end and full stack roles, I can be contacted via email at chinaemerema@gmail.com
 
 
 ## 🚀 Languages and Tools:
