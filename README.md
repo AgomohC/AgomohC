@@ -48,7 +48,7 @@
 [![Chinaemerem's github activity graph](https://activity-graph.herokuapp.com/graph?username=AgomohC&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/AgomohC/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AgomohC">
 </a>
 <a href="https://github.com/AgomohC?tab=followers">
