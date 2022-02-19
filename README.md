@@ -52,7 +52,7 @@
     <img src="https://komarev.com/ghpvc/?username=AgomohC">
 </a>
 <a href="https://github.com/AgomohC?tab=followers">
-    <img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/AgomohC?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 <br/>
