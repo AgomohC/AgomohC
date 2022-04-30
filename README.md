@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in the Javascript and its web applications
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning VueJS
 
 - 📫 I'm open to front end, back end and full stack roles, I can be contacted via email at chinaemerema@gmail.com
 
@@ -28,7 +28,9 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <a href="https:/v4.mui.com" target="_blank">  <img src="https://img.icons8.com/color/50/000000/material-ui.png"/></a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/npm.png"/></a>
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/heroku.png"/></a>   
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/heroku.png"/></a> 
+  <a href="https://vuejs.org/guide/introduction.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a> 
+ 
 </p>
 
 
